@@ -1,0 +1,23 @@
+💡 Step 1: Install Node.js (if not installed)
+Download from: https://nodejs.org/
+Check if installed:
+
+node -v
+npm -v
+💡 Step 2: Install Sass Globally OR Locally
+
+Global installation:
+
+npm install -g sass
+Local installation (recommended for projects):
+Navigate to your project folder:
+
+cd your-project-folder
+Then install Sass locally:
+
+npm install sass --save-dev
+💡 Step 3: Confirm Sass Installation
+Check the installed version:
+
+sass --version
+💡 Step 4: Compile SCSS to CSS
